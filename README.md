@@ -1,38 +1,24 @@
+Hi, I'm Jatin Sharma 👋
 
-👋 Hi, I'm Jatin Sharma
+I'm a passionate MERN Stack Developer focused on building modern, responsive, and high-performance web applications.
+Currently exploring advanced frontend animations and backend architecture to create seamless user experiences.
 
-🎨 Frontend Developer | 💻 3D Animation Enthusiast | 🚀 Learning Three.js
+💻 Tech Stack
 
-I’m a passionate Frontend Developer who loves blending code and creativity to craft immersive, dynamic, and visually stunning web experiences. With a growing interest in 3D animations, I aim to bring websites to life using cutting-edge technologies.
+Frontend: React.js, Next.js, JavaScript, Tailwind CSS, Framer Motion, GSAP
 
-⚡ Skills & Technologies
+Backend: Node.js, Express.js
 
-💻 Languages: HTML5, CSS3, JavaScript (ES6+).
+Database: MongoDB
 
-🌐 Frameworks & Libraries: React.js, Next.js.
+Tools: Git, GitHub, VS Code, Postman
 
-🎨 Styling Tools: Tailwind CSS, Styled Components, CSS Modules.
+Other Skills: REST APIs, Responsive Design, UI/UX Best Practices
 
-✨ Animation: Framer Motion, GSAP (GreenSock), and learning Three.js.
+🚀 What I'm Working On -
 
-📱 Responsive Design: Crafting pixel-perfect and mobile-friendly websites.
+Developing full-stack applications with scalable architecture
 
+Enhancing UI/UX with smooth animations using GSAP and Framer Motion
 
-🚀 Currently Learning
-
-🌟 Three.js for creating 3D web experiences.
-
-🎥 Advanced 3D animations to elevate user engagement.
-
-
-🌈 What I Love
-
-Building interactive UIs.
-
-Exploring the world of 3D designs and animations.
-
-Creating projects that combine aesthetics and functionality.
-
-
-Feel free to connect with me to collaborate. 
-
+Building projects with Next.js for better performance and SEO
