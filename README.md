@@ -21,4 +21,4 @@ Developing full-stack applications with scalable architecture
 
 Enhancing UI/UX with smooth animations using GSAP and Framer Motion
 
-Building projects with Next.js for better performance and SEO
+Building projects with Next.js for better performance and SEO.
